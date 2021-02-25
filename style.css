@@ -3,6 +3,7 @@ body {
     line-height: 16px;
     color: #000000;
     
+    
 }
 .container {
     margin: 0 auto;
@@ -10,7 +11,8 @@ body {
     background-color: cornflowerblue;
     box-sizing: border-box;
     border: 2px solid red;
-    min-height: 100vh;
+    min-height: 95vh;
+    padding: 5px 25px;
 }
 
 .header, .main, .footer {
