@@ -1,0 +1,19 @@
+{
+  "name": "2_lesson",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Eduard-ua/git_practicing.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Eduard-ua/git_practicing/issues"
+  },
+  "homepage": "https://github.com/Eduard-ua/git_practicing#readme"
+}
